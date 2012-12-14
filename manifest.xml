@@ -1,0 +1,18 @@
+<package>
+  <description brief="yaml_cpp">
+
+     yaml_cpp
+
+  </description>
+  <author>Simon Lynen</author>
+  <license>BSD</license>
+  <review status="unreviewed" notes=""/>
+  <url>http://ros.org/wiki/yaml_cpp</url>
+
+  <depend package="roscpp"/>
+  <export>
+    <cpp cflags="-I${prefix}/include" lflags="-L${prefix}/lib -lyaml-cpp" />
+  </export>
+</package>
+
+

@@ -1,0 +1,14 @@
+<package>
+  <description brief="yaml_cpp">
+
+     yaml_cpp
+
+  </description>
+  <author>Simon Lynen</author>
+  <license>BSD</license>
+  <review status="unreviewed" notes=""/>
+  <url>http://ros.org/wiki/yaml_cpp</url>
+
+</package>
+
+
